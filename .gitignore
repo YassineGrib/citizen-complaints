@@ -1,0 +1,19 @@
+# Composer dependencies
+/vendor/
+
+# Uploaded files
+/uploads/
+
+# Sensitive configuration
+/config/mail.php
+/config/database.php
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE/project files
+*.sublime-workspace
+*.sublime-project
+.idea/
+.vscode/
